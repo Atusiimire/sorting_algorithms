@@ -5,7 +5,7 @@
  * @array: array to find the piv in
  * @left: index of the left element
  * @right: index of the right element
- * size: size of the array
+ * @size: size of the array
  * Return: the index of the piv element
  */
 
