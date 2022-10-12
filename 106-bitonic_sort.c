@@ -22,7 +22,7 @@ array[i + mid] = array[i];
 array[i] = tmp;
 }
 }
-itonic_merge(array, l, step, direction);
+bitonic_merge(array, l, step, direction);
 bitonic_merge(array, step + 1, r, direction);
 }
 }
